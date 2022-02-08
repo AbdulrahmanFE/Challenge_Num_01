@@ -33,7 +33,7 @@ body {
   }
   main section h2{
     color: var(--DarkBlue);
-    padding-bottom: 7.5px;
+    padding-bottom: 10px;
   }
   main section p{
     color: var(--blueColor);
