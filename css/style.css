@@ -17,11 +17,7 @@ body {
 }
 /* Start Card */
   main {
-<<<<<<< HEAD
-    width: 285px;
-=======
     width: 290px;
->>>>>>> 3d9d7232a5f28cc13259784be90d7f1e21d2eb08
     background-color: var(--WhiteColor);
     border-radius: 18px;
     text-align: center;
@@ -42,8 +38,4 @@ body {
   main section p{
     color: var(--blueColor);
   }
-<<<<<<< HEAD
-/* End Card */
-=======
 /*  End Card */
->>>>>>> 3d9d7232a5f28cc13259784be90d7f1e21d2eb08
