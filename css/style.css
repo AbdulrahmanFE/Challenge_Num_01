@@ -17,7 +17,7 @@ body {
 }
 /* Start Card */
   main {
-    width: 285px;
+    width: 280px;
     background-color: var(--WhiteColor);
     border-radius: 18px;
     text-align: center;
@@ -29,11 +29,10 @@ body {
   }
   main section {
     font-size: 15px;
-    padding: 10px; 
+    padding: 0 10px 10px; 
   }
   main section h2{
     color: var(--DarkBlue);
-    padding-bottom: 10px;
   }
   main section p{
     color: var(--blueColor);
