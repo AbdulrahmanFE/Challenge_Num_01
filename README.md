@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/lzfaukzhigbavv5sc26b.jpg"></img>
+<img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/cybxdhr4wewlscvco9dd.jpg"></img>
 
 
 <h1 align="center">QR code component challenge</h1>
